@@ -1,9 +1,6 @@
 
 # series-hexagonal
 
-<!-- badges: start -->
-<!-- badges: end -->
+Source code for the generative art gallery by Danielle Navarro at <https://art.djnavarro.net/gallery/hexagonal/>. Code and images released under a CC-BY licence.
 
-[Hexagonal](https://art.djnavarro.net/gallery/hexagonal/) is an art
-repository by Danielle Navarro. The images in this repository are
-released under a [CC-BY-4.0](./LICENSE.md).
+The `source` folder does contain the relevant source code used to generate the art, and similarly the `build` folder does contain scripts used when building manifest files etc. But: the code *hasn't* been updated to reflect the most recent workflow, and will probably attempt to generate output in the wrong folders. 
